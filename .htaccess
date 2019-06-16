@@ -1,0 +1,24 @@
+php_value display_errors Off
+php_flag magic_quotes 1
+php_flag magic_quotes_gpc 1
+php_value mbstring.http_input auto
+php_value date.timezone Europe/Paris
+ErrorDocument 404  http://lortuno.mipropia.com/404.html
+AddDefaultCharset UTF-8
+DirectoryIndex index.php
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^lortuno.mipropia.com/$i
+RewriteRule (.*) http://www.lortuno.mipropia.com/$i[R=301,L]
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)$ index.php?lang=$1 [L]
+</IfModule>
+
+
+
+
+   				
