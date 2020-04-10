@@ -38,10 +38,11 @@
 						pista hacia su siguiente movimiento.</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
-							<div class="image flush"><img src="escape/images/historial.png" alt="maps"/></div>
+							<div class="image flush"><img src="escape/images/poker.png" alt="poker"/></div>
 							<div class="inner">
 								<h3>Baraja</h3>
-								<p>Mazo de cartas.</p>
+								<p title="Sin embargo, hay una carta que falta">El mazo de cartas consta, contando con las cartas de la mesa, de 54
+									cartas. Los comodines se han dejado apartados.</p>
 							</div>
 						</div>
 					</section>

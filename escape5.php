@@ -41,8 +41,16 @@
 						<div class="spotlight alt">
 							<div class="image flush"><img src="escape/images/tarros.jpg" alt="jars"/></div>
 							<div class="inner">
-								<h3>Receta</h3>
-								<p>1:16 <a href="" target="_blank">Aceite</a></p>
+								<h3 title="Pista: es un acertijo">Receta</h3>
+								<p>0:10 <a href="https://www.youtube.com/watch?v=IJC7a46ZH68" target="_blank">Aceite</a></p>que
+								<p>1:30 <a href="https://www.youtube.com/watch?v=2V0wqpe1QR8" target="_blank">3 huevos</a></p>se
+								<p>0:40 <a href="https://www.youtube.com/watch?v=qvFNh0iM5_4" target="_blank">Mantequilla</a></p>puede
+								<p>2:26 <a href="https://www.youtube.com/watch?v=8WHlhgJ_uB4" target="_blank">Sal</a></p>ver
+								<p>4:19 <a href="https://www.youtube.com/watch?v=B7UTrWig73c" target="_blank">Pimienta</a></p>con
+								<p>2:44 <a href="https://www.youtube.com/watch?v=bX4CmPR4qIU" target="_blank">cebolla</a></p>los
+								<p>0:10 <a href="https://www.youtube.com/watch?v=o8_zPzNiCtA" target="_blank">Cuatro Patatas</a></p>ojos
+								<p>0:04 <a href="https://www.youtube.com/watch?v=X4xwEx0SMVo" target="_blank">Queso</a></p>cerrados
+
 								Ver en:
 								<p>lortuno.mipropia.com/xxxxxxxx.php</p>
 							</div>

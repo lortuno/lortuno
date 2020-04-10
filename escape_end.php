@@ -70,7 +70,7 @@
 							Una persona aparece muerta a las pocas horas, y Murderchef sigue suelto.
 							Os destituyen del cuerpo y os pasáis vuestros días comiendo nachos con queso en el sótando de vuestros padres.
 							Looosers.</p>
-						<form action="2163.php" method="post">
+						<form action="oscuridad.php" method="post">
 							<button type="submit" class="button big special">Volver atrás y reintentar</button>
 						</form>
 

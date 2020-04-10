@@ -72,8 +72,8 @@
 					<h3>Cuál es la imagen que contiene la pista final:</h3>
 					<form action="escape_end.php" method="post">
 						<div class="align-center">
-							<input type="text" name="name">
-							<label for="optionOne">Nombre de la víctima</label>
+							<input id="name" type="text" name="name">
+							<label for="name">Nombre de la víctima</label>
 						</div>
 
 						<div class="row margin-top pull-right">
