@@ -39,7 +39,8 @@
 						oculta para acceder a otra sala.</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
-							<div class="image flush"><a href="images/laberinto.png" download> <img src="images/laberinto.png" alt="laberinto"/></a>
+							<div class="image flush"><a href="images/laberinto.png" download>
+									<img src="images/laberinto.png" alt="laberinto"/></a>
 							</div>
 							<div class="inner">
 								<p title="Solo funciona si obtenemos un decágono">Para hacer el zumo por cada pieza de fruta hay que echar:</p>

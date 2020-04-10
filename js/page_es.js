@@ -161,6 +161,10 @@ var data = {
 			src: "images/18.jpg",
 			details: [
 				{
+					company_name: "HOLA",
+					tasks: "Enfocada a backend development (con Symfony y docker) para desarrollar las webs de la compañía."
+				},
+				{
 					company_name: "Intermundial",
 					tasks: "Desarrolladora web Senior Full Stack, (front-end & back-end, con Symfony y ES6) para conducir la página web de la empresa a nuevos niveles de performance."
 				},
@@ -241,9 +245,14 @@ var data = {
 			url: "http://dulcescavi.wix.com/Dulcescavi"
 		},
 		{
-			src: "images/lortuno.png",
+			src: "images/escape.png",
 			title: "Lortuno",
-			url: "http://www.lortuno.mipropia.com"
+			url: "http://www.lortuno.mipropia.com/escape"
+		},
+		{
+			src: "images/hola.png",
+			title: "HOLA",
+			url: "https://www.hola.com/cocina/recetas/20200331164495/video-receta-pollo-ajillo/"
 		}
 	],
 	technologies: [
@@ -252,13 +261,13 @@ var data = {
 			width: "100px",
 			heigth: "100px",
 			name: "PHPStorm",
-			src: "https://pbs.twimg.com/profile_images/674918306000711680/3rPeiTKt_400x400.png"
+			src: "https://www.stickpng.com/assets/images/584816c8cef1014c0b5e4987.png"
 		},
 		{
 			width: "100px",
 			heigth: "100px",
 			name: "Symfony",
-			src: "https://sysadm.es/wp-content/uploads/2018/05/symfony-696x371.png"
+			src: "https://lh3.googleusercontent.com/proxy/ecDj5IuIq5D-8aZ8WX6pcZ8F6t8EDtKw4qM8eonnbvHFZ8WVkDU62G32Y9KwvInAJslcmFc1-qfk2J1sPH_LyFTTAWCdqPSEMOJkUcL1yQFDJw"
 		},
 		{
 			width: "100px",
