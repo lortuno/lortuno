@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="lortuno">
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<link rel="stylesheet" href="escape/assets/css/main.css"/>
+	<link rel="stylesheet" href="assets/css/main.css"/>
 </head>
 <body>
 
@@ -22,7 +22,7 @@
 		<section id="one" class="wrapper style1">
 
 			<div class="image fit flush">
-				<img src="escape/images/header_police.jpg" alt="header"/>
+				<img src="images/header_police.jpg" alt="header"/>
 			</div>
 			<header class="special">
 				<h2>El caso</h2>
@@ -41,27 +41,27 @@
 						<div class="gallery">
 							<div>
 								<div class="image fit flush">
-									<a href="escape/images/ojo.jpg" title="María Luisa González"><img src="escape/images/ojo.jpg"
-																									  alt="María Luisa González"
+									<a href="images/ojo.jpg" title="María Luisa González"><img src="images/ojo.jpg"
+																							   alt="María Luisa González"
 										/></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="escape/images/oreja.jpg" title="Pedro Cristobal"><img src="escape/images/oreja.jpg" alt="Pedro Cristobal"
+									<a href="images/oreja.jpg" title="Pedro Cristobal"><img src="images/oreja.jpg" alt="Pedro Cristobal"
 										/></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="escape/images/lengua.jpg" title="Ignacio de Lucas"><img src="escape/images/lengua.jpg"
-																									 alt="Ignacio de Lucas"
+									<a href="images/lengua.jpg" title="Ignacio de Lucas"><img src="images/lengua.jpg"
+																							  alt="Ignacio de Lucas"
 										/></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="escape/images/pie.jpg" title="Susana Romero"><img src="escape/images/pie.jpg" alt="Susana Romero"
+									<a href="images/pie.jpg" title="Susana Romero"><img src="images/pie.jpg" alt="Susana Romero"
 										/></a>
 								</div>
 							</div>
@@ -94,11 +94,11 @@
 </footer>
 
 <!-- Scripts -->
-<script src="escape/assets/js/jquery.min.js"></script>
-<script src="escape/assets/js/jquery.poptrox.min.js"></script>
-<script src="escape/assets/js/skel.min.js"></script>
-<script src="escape/assets/js/util.js"></script>
-<script src="escape/assets/js/main.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.poptrox.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 </html>

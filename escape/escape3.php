@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="lortuno">
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<link rel="stylesheet" href="escape/assets/css/main.css"/>
+	<link rel="stylesheet" href="assets/css/main.css"/>
 </head>
 <body>
 
@@ -22,7 +22,7 @@
 		<section id="one" class="wrapper style1">
 
 			<div class="image fit flush">
-				<img src="escape/images/header_police.jpg" alt="header"/>
+				<img src="images/header_police.jpg" alt="header"/>
 			</div>
 			<header class="special">
 				<h2>El caso</h2>
@@ -38,7 +38,11 @@
 						pista hacia su siguiente movimiento.</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
-							<div class="image flush"><img src="escape/images/poker.png" alt="poker"/></div>
+							<div class="image flush">
+								<a href="images/poker.png" download>
+									<img src="images/poker.png" alt="poker"/>
+								</a>
+							</div>
 							<div class="inner">
 								<h3>Baraja</h3>
 								<p title="Sin embargo, hay una carta que falta">El mazo de cartas consta, contando con las cartas de la mesa, de 54
@@ -88,11 +92,11 @@
 </footer>
 
 <!-- Scripts -->
-<script src="escape/assets/js/jquery.min.js"></script>
-<script src="escape/assets/js/jquery.poptrox.min.js"></script>
-<script src="escape/assets/js/skel.min.js"></script>
-<script src="escape/assets/js/util.js"></script>
-<script src="escape/assets/js/main.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.poptrox.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 </html>

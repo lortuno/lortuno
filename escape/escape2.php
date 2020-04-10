@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="lortuno">
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<link rel="stylesheet" href="escape/assets/css/main.css"/>
+	<link rel="stylesheet" href="assets/css/main.css"/>
 </head>
 <body>
 
@@ -22,7 +22,7 @@
 		<section id="one" class="wrapper style1">
 
 			<div class="image fit flush">
-				<img src="escape/images/header_police.jpg" alt="header"/>
+				<img src="images/header_police.jpg" alt="header"/>
 			</div>
 			<header class="special">
 				<h2>El caso</h2>
@@ -36,8 +36,8 @@
 						todas coinciden con localizaciones en las que murderchef ha matado con su modus operandi.</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
-							<div class="image flush"><a href="escape/images/historial.png" download>
-									<img src="escape/images/historial.png" alt="maps"/>
+							<div class="image flush"><a href="images/historial.png" download>
+									<img src="images/historial.png" alt="maps"/>
 								</a>
 							</div>
 							<div class="inner">
@@ -78,7 +78,7 @@
                 <?php } else { ?>
 					<div class="align-center padding">
 						<p>Contraseña incorrecta</p>
-						<a href="escape.php" target="_self">Volver atrás</a>
+						<a href="index.php" target="_self">Volver atrás</a>
 					</div>
                 <?php } ?>
 			</div>
@@ -94,11 +94,11 @@
 </footer>
 
 <!-- Scripts -->
-<script src="escape/assets/js/jquery.min.js"></script>
-<script src="escape/assets/js/jquery.poptrox.min.js"></script>
-<script src="escape/assets/js/skel.min.js"></script>
-<script src="escape/assets/js/util.js"></script>
-<script src="escape/assets/js/main.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.poptrox.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 </html>

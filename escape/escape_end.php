@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="lortuno">
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<link rel="stylesheet" href="escape/assets/css/main.css"/>
+	<link rel="stylesheet" href="assets/css/main.css"/>
 </head>
 <body>
 
@@ -22,7 +22,7 @@
 		<section id="one" class="wrapper style1">
 
 			<div class="image fit flush">
-				<img src="escape/images/header_police.jpg" alt="header"/>
+				<img src="images/header_police.jpg" alt="header"/>
 			</div>
 			<header class="special">
 				<h2>El caso</h2>
@@ -52,12 +52,12 @@
 					<div class="gallery">
 						<div>
 							<div class="image fit flush">
-								<img src="escape/images/police.jpg" alt="police"/>
+								<img src="images/police.jpg" alt="police"/>
 							</div>
 						</div>
 						<div>
 							<div class="image fit flush">
-								<img src="escape/images/medal.jpg" alt="medal"/>
+								<img src="images/medal.jpg" alt="medal"/>
 							</div>
 						</div>
 					</div>
@@ -66,7 +66,7 @@
 					</section>
                 <?php } else { ?>
 					<div class="align-center padding">
-						<p>¡Vaya!, habeis enviado una patrulla a la dirección que no era y habéis dejado escapar al criminal.
+						<p>¡Vaya!, habéis enviado una patrulla a la dirección que no era y habéis dejado escapar al criminal.
 							Una persona aparece muerta a las pocas horas, y Murderchef sigue suelto.
 							Os destituyen del cuerpo y os pasáis vuestros días comiendo nachos con queso en el sótando de vuestros padres.
 							Looosers.</p>
@@ -89,11 +89,11 @@
 </footer>
 
 <!-- Scripts -->
-<script src="escape/assets/js/jquery.min.js"></script>
-<script src="escape/assets/js/jquery.poptrox.min.js"></script>
-<script src="escape/assets/js/skel.min.js"></script>
-<script src="escape/assets/js/util.js"></script>
-<script src="escape/assets/js/main.js"></script>
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.poptrox.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 </html>
