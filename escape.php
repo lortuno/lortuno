@@ -30,7 +30,7 @@
 			</header>
 			<div class="content">
 				<p>Sois Jane Peralta y Tony Santiago, dos detectives de la comisaría de Aragón siguiendo la pista del famoso criminal Murderchef.
-					Hoy, 12 de abril de 2020, tras una ardua investigación habéis avanzado en el caso y tenéis una dirección. </p>
+					Hoy, 23 de abril de 2020, tras una ardua investigación habéis avanzado en el caso y tenéis una dirección. </p>
 				<p> Entráis en un
 					apartamento algo destartalado, la última ubicación conocida a la que os ha llevado un testigo. Registráis el piso, bastante
 					modesto, parece solo un sitio de paso, pero encontráis que se ha llevado todas las cosas personales con mucha prisa.</p>
@@ -38,44 +38,10 @@
 					un montón de sábanas revueltas, una planta mustia, varios <a
 							href="https://drive.google.com/open?id=1Ayy7DbUfwyBCu2-p7TU6GKRVyNmDjzg4"
 							target="_blank">libros</a> polvorientos en la
-					estanteria... En el fondo de un cajón del
+					estantería... En el fondo de un cajón del
 					armario aparece una tablet bloqueada con un postit por la parte de atrás. </p>
 			</div>
 		</section>
-
-		<!-- Two -->
-		<!--		<section id="two" class="wrapper style2">-->
-		<!--			<header>-->
-		<!--				<h2>Vestibulum Convallis</h2>-->
-		<!--				<p>vehicula urna sed justo bibendum</p>-->
-		<!--			</header>-->
-		<!--			<div class="content">-->
-		<!--				<div class="gallery">-->
-		<!--					<div>-->
-		<!--						<div class="image fit flush">-->
-		<!--							<a href="escape/images/pic03.jpg"><img src="escape/images/pic03.jpg" alt=""/></a>-->
-		<!--						</div>-->
-		<!--					</div>-->
-		<!--					<div>-->
-		<!--						<div class="image fit flush">-->
-		<!--							<a href="escape/images/pic01.jpg"><img src="escape/images/pic01.jpg" alt=""/></a>-->
-		<!--						</div>-->
-		<!--					</div>-->
-		<!--					<div>-->
-		<!--						<div class="image fit flush">-->
-		<!--							<a href="escape/images/pic04.jpg"><img src="escape/images/pic04.jpg" alt=""/></a>-->
-		<!--						</div>-->
-		<!--					</div>-->
-		<!--					<div>-->
-		<!--						<div class="image fit flush">-->
-		<!--							<a href="escape/images/pic05.jpg"><img src="escape/images/pic05.jpg" alt=""/></a>-->
-		<!--						</div>-->
-		<!--					</div>-->
-		<!--				</div>-->
-		<!--			</div>-->
-		<!--		</section>-->
-
-		<!-- Three -->
 		<section id="three" class="wrapper">
 			<div class="spotlight">
 				<div class="image flush"><img src="escape/images/tablet.jpg" alt=""/></div>
@@ -93,13 +59,13 @@
 					</div>
 				</div>
 			</div>
-			<section class="special align-center padding container">
+			<section class="special align-center padding">
 				<h3>Desbloquear</h3>
 				<form action="escape2.php" method="post">
-					<div class="row">
+					<div>
 						<label for="password">Introduzca la contraseña:</label>
 					</div>
-					<div class="row">
+					<div>
 						<input id="password" name="password" type="password">
 					</div>
 					<div class="row margin-top pull-right">
@@ -107,24 +73,6 @@
 					</div>
 				</form>
 			</section>
-			<!--			<div class="spotlight alt">-->
-			<!--				<div class="image flush"><img src="escape/images/pic07.jpg" alt=""/></div>-->
-			<!--				<div class="inner">-->
-			<!--					<h3>Curabitur Eget</h3>-->
-			<!--					<p>Curabitur eget semper ante. Morbi eleifend ultricies est, a blandit diam vehicula vel. Vestibulum porttitor nisi quis viverra-->
-			<!--						hendrerit. Suspendisse vel volutpat nibh, vel elementum lacus. Maecenas commodo pulvinar dui, at cursus metus imperdiet-->
-			<!--						vel.</p>-->
-			<!--				</div>-->
-			<!--			</div>-->
-			<!--			<div class="spotlight">-->
-			<!--				<div class="image flush"><img src="escape/images/pic08.jpg" alt=""/></div>-->
-			<!--				<div class="inner">-->
-			<!--					<h3>Morbi Eleifend</h3>-->
-			<!--					<p>Curabitur eget semper ante. Morbi eleifend ultricies est, a blandit diam vehicula vel. Vestibulum porttitor nisi quis viverra-->
-			<!--						hendrerit. Suspendisse vel volutpat nibh, vel elementum lacus. Maecenas commodo pulvinar dui, at cursus metus imperdiet-->
-			<!--						vel.</p>-->
-			<!--				</div>-->
-			<!--			</div>-->
 		</section>
 
 	</div>
@@ -133,7 +81,7 @@
 <!-- Footer -->
 <footer id="footer">
 	<div class="copyright">
-		&copy; lortuno. All rights reserved. Thans for: Images <a href="https://unsplash.com">Unsplash</a> Design <a href="https://templated.co">TEMPLATED</a>
+		&copy; lortuno. All rights reserved. Thanks for: Images <a href="https://unsplash.com">Unsplash</a> Design <a href="https://templated.co">TEMPLATED</a>
 	</div>
 </footer>
 

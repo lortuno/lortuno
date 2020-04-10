@@ -29,49 +29,58 @@
 				<p>Sigue las pistas y atrapa al asesino antes de que escape.</p>
 			</header>
 			<div class="content">
-			<?php
-			if ($_POST['password'] === 'tenedoR') { ?>
-				<p>Habéis desbloqueado la tablet. Al hacerlo veis el email abierto con un mensaje destacado en pantalla.
-					Para entenderlo mirais inmediatamente el historial de las ultimas ubicaciones visitadas.</p>
-				<section id="three" class="wrapper">
-					<div class="spotlight alt">
-						<div class="image flush"><a href="escape/images/historial.png" download>
-								<img src="escape/images/historial.png" alt="maps"/>
-							</a>
+                <?php
+                if ($_POST['password'] === 'tenedoR') { ?>
+					<p>Habéis desbloqueado la tablet. Al hacerlo veis el email abierto con un mensaje destacado en pantalla.
+						Para entenderlo miráis inmediatamente el historial de las últimas ubicaciones visitadas. Curiosamente,
+						todas coinciden con localizaciones en las que murderchef ha matado con su modus operandi.</p>
+					<section id="three" class="wrapper">
+						<div class="spotlight alt">
+							<div class="image flush"><a href="escape/images/historial.png" download>
+									<img src="escape/images/historial.png" alt="maps"/>
+								</a>
+							</div>
+							<div class="inner">
+								<h3>Mensaje de: Anónimo</h3>
+								<p>ñs vsds rdys urmfp rm ñs dohirmyr fotrvvopm.
+									Br im nñpwir jsvos fpmfr giodyr rm kimop, fpd nñpwird jsvos
+									fpmfr giodyr rm dr`yor,ntr. Ims ,smxsms frdfr yi tiys fr ,sup.
+									Fpd vsdsd fotrvvopm yi bodoys fr sntoñ.
+									Mpd br,pd `tpmyp.</p>
+							</div>
 						</div>
-						<div class="inner">
-							<h3>Mensaje de: Anónimo</h3>
-							<p>ñs vsds rdys urmfp rm ñs dohirmyr fotrvvopm.
-								Br im nñpwir jsvos fpmfr giodyr rm kimop, fpd nñpwird jsvos
-								fpmfr giodyr rm dr`yor,ntr. Ims ,smxsms frdfr yi tiys fr ,sup.
-								Fpd vsdsd fotrvvopm yi bodoys fr sntoñ.
-								Mpd br,pd `tpmyp.</p>
-						</div>
-					</div>
-				</section>
-				<section class="special align-center padding container">
-					<h3>Qué dirección vais a tomar ahora:</h3>
-					<form action="escape3.php" method="post">
-						<input type="radio" id="one" name="direction" value="1">
-						<label for="one">Arriba derecha abajo arriba arriba derecha izquierda</label><br>
-						<input type="radio" id="two" name="direction" value="2">
-						<label for="two">Arriba derecha arriba derecha abajo arriba izquierda</label><br>
-						<input type="radio" id="three" name="direction" value="3">
-						<label for="three">Arriba derecha abajo arriba izquierda arriba derecha</label><br>
-						<input type="radio" id="four" name="direction" value="4">
-						<label for="four">Arriba izquierda arriba derecha abajo arriba derecha</label><br>
+					</section>
+					<section class="special align-center padding">
+						<h3>Qué dirección vais a tomar ahora:</h3>
+						<form action="escape3.php" method="post">
+							<div class="align-center">
+								<input type="radio" id="optionOne" name="direction" value="1">
+								<label for="optionOne">Arriba derecha abajo arriba arriba derecha izquierda</label>
+							</div>
+							<div class="align-center">
+								<input type="radio" id="optionTwo" name="direction" value="2">
+								<label for="optionTwo">Arriba derecha arriba derecha abajo arriba izquierda</label>
+							</div>
+							<div class="align-center">
+								<input type="radio" id="optionThree" name="direction" value="3">
+								<label for="optionThree">Arriba derecha abajo arriba izquierda arriba derecha</label>
+							</div>
+							<div class="align-center">
+								<input type="radio" id="optionFour" name="direction" value="4">
+								<label for="optionFour">Arriba izquierda arriba derecha abajo arriba derecha</label>
+							</div>
 
-						<div class="row margin-top pull-right">
-							<button class="button alt" type="submit">Aceptar</button>
-						</div>
-					</form>
-				</section>
-			<?php } else { ?>
-				<div class="align-center padding">
-					<p>Contraseña incorrecta</p>
-					<a href="escape.php" target="_self">Volver atrás</a>
-				</div>
-				<?php } ?>
+							<div class="row margin-top pull-right">
+								<button class="button alt" type="submit">Aceptar</button>
+							</div>
+						</form>
+					</section>
+                <?php } else { ?>
+					<div class="align-center padding">
+						<p>Contraseña incorrecta</p>
+						<a href="escape.php" target="_self">Volver atrás</a>
+					</div>
+                <?php } ?>
 			</div>
 		</section>
 	</div>
@@ -80,7 +89,7 @@
 <!-- Footer -->
 <footer id="footer">
 	<div class="copyright">
-		&copy; lortuno. All rights reserved. Thans for: Images <a href="https://unsplash.com">Unsplash</a> Design <a href="https://templated.co">TEMPLATED</a>
+		&copy; lortuno. All rights reserved. Thanks for: Images <a href="https://unsplash.com">Unsplash</a> Design <a href="https://templated.co">TEMPLATED</a>
 	</div>
 </footer>
 

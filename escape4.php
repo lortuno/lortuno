@@ -30,33 +30,29 @@
 			</header>
 			<div class="content">
                 <?php
-                if ($_POST['direction'] === "4") { ?>
-					<p>Llegáis a un chalet en las afueras, en una calle tranquila llena de adosados. Accedéis por la puerta de atrás, pistola en alto,
-						pero nadie acude en vuestra busca. Al entrar en el salón veis los restos de una partida de póker clandestina. Han dejado las
-						cartas sobre la mesa con las fichas de la última jugada y han salido corriendo por algún motivo no hace mucho.
-						Probablemente el ganador recogiera sus ganancias con prisa. Parece la
-						pista hacia su siguiente movimiento.</p>
+                if ($_POST['player'] === "2") { ?>
+					<p>David Sebastian resulta ser el nombre en clave de vuestro sospechoso, y al conocer su apodo desbloqueáis un posible paradero
+						de un testigo que un compañero interrogó la semana pasada. Llegáis a un sótano utilizado como cuarto de lavadoras. Vuestra
+						linterna de luz negra detecta restos de sangre en una esquina. Podría ser el lugar donde Murderchef lleva a cabo sus
+						asesinatos. En la pared hay colgado un póster con un mapa de un laberinto. Santiago descubre un candado numérico en una puerta
+						oculta para acceder a otra sala.</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
-							<div class="image flush"><img src="escape/images/historial.png" alt="maps"/></div>
+							<div class="image flush"><img src="escape/images/laberinto.png" alt="laberinto"/></div>
 							<div class="inner">
-								<h3>Baraja</h3>
-								<p>Mazo de cartas.</p>
+								<p title="Solo funciona si obtenemos un decágono">Para hacer el zumo por cada pieza de fruta hay que echar:</p>
+								<ul class="align-left">
+									<li>Siete gotas de agua.</li>
+									<li>Tres rodajas de plátano.</li>
+									<li>Apartar la fresa para la próxima preparación.</li>
+								</ul>
 							</div>
 						</div>
 					</section>
 					<section class="special align-center padding">
-						<h3>Qué jugador vais a perseguir:</h3>
-						<form action="escape4.php" method="post">
-							<input type="radio" id="_one" name="player" value="1">
-							<label for="_one">Julio Sánchez</label><br>
-							<input type="radio" id="_two" name="player" value="2">
-							<label for="_two">David Sebastián</label><br>
-							<input type="radio" id="_three" name="player" value="3">
-							<label for="_three">Amador Pérez</label><br>
-							<input type="radio" id="_four" name="player" value="4">
-							<label for="_four">Roberto Aguilar</label><br>
-
+						<h3>Clave de la puerta:</h3>
+						<form action="escape5.php" method="post">
+							<input type="text" id="paso" name="paso">
 							<div class="row margin-top pull-right">
 								<button class="button alt" type="submit">Enviar</button>
 							</div>
@@ -64,11 +60,11 @@
 					</section>
                 <?php } else { ?>
 					<div class="align-center padding">
-						<p>¡Vaya!, habeis ido a la dirección que no era y habéis perdido al criminal. Os destituyen del cuerpo y os pasáis vuestros
-							días
-							comiendo doritos en la penumbra de vuestro cuarto. Looosers.</p>
-						<form action="escape2.php" method="post">
-							<input type="hidden" name="password" value="tenedoR">
+						<p>¡Maldita sea!, habeis perseguido a un inocente y perdido toda la credibilidad de vuestro departamento.
+							Murderchef ha escapado y a vosotros os han reasignado a allanamientos.
+							Looosers.</p>
+						<form action="escape3.php" method="post">
+							<input type="hidden" name="direction" value="4">
 							<button type="submit" class="button big special">Volver atrás y reintentar</button>
 						</form>
 
