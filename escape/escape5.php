@@ -44,21 +44,25 @@
 								<h3 title="Pista: es un acertijo">Receta</h3>
 								<p>Coger las piezas de una en una y batir a 0.5 de velocidad.</p>
 								<ul>
-									<li>0:10 <a href="https://www.youtube.com/watch?v=IJC7a46ZH68" target="_blank">Aceite</a></li>
-									<li>1:30 <a href="https://www.youtube.com/watch?v=2V0wqpe1QR8" target="_blank">1 huevo</a></li>
-									<li>0:40 <a href="https://www.youtube.com/watch?v=qvFNh0iM5_4" target="_blank">Mantequilla</a></li>
+									<li>0:24 <a href="https://www.youtube.com/watch?v=97SvRSXehM0" target="_blank">2 huevos</a></li>
+									<li>0:40 <a href="https://www.youtube.com/watch?v=uDZ716e4eSU" target="_blank">Mantequilla</a></li>
 									<li>2:26 <a href="https://www.youtube.com/watch?v=8WHlhgJ_uB4" target="_blank">Sal</a></li>
-									<li>4:19 <a href="https://www.youtube.com/watch?v=B7UTrWig73c" target="_blank">Pimienta</a></li>
+									<li>4:19 <a href="https://www.youtube.com/watch?v=B7UTrWig73c" target="_blank">Aceite</a></li>
 									<li>2:44 <a href="https://www.youtube.com/watch?v=bX4CmPR4qIU" target="_blank">1 cebolla</a></li>
-									<li>0:10 <a href="https://www.youtube.com/watch?v=o8_zPzNiCtA" target="_blank">Dos Patatas</a></li>
-									<li>0:04 <a href="https://www.youtube.com/watch?v=X4xwEx0SMVo" target="_blank">Queso</a></li>
+									<li>0:04 <a href="https://www.youtube.com/watch?v=X4xwEx0SMVo" target="_blank">Dos Patatas</a></li>
 								</ul>
 
 								Ver en:
 								<p>lortuno.mipropia.com/<wbr>escape/xxxxxxxx.php</p>
 							</div>
 						</div>
-						<input type="hidden" value="que se puede ver con los ojos cerrados">
+						<section class="margin-top">
+							<details>
+								<summary>Pedir ayuda a tu colega Carlos Piedra.</summary>
+								<p>Te indica que cada vídeo contiene la palabra de un acertijo, en orden.</p>
+								<p>Si el nº de ingredientes es 2, son dos palabras.</p>
+							</details>
+						</section>
 					</section>
                 <?php } else { ?>
 					<section class="align-center padding">
