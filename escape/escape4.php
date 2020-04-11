@@ -43,7 +43,7 @@
 									<img src="images/laberinto.png" alt="laberinto"/></a>
 							</div>
 							<div class="inner">
-								<p title="Solo funciona si obtenemos un decágono">Para hacer el zumo por cada pieza de fruta hay que echar:</p>
+								<p title="Solo funciona si obtenemos un decágono" rel="tooltip">Para hacer el zumo por cada pieza de fruta hay que echar:</p>
 								<ul class="align-left">
 									<li>Siete gotas de agua.</li>
 									<li>Tres rodajas de plátano.</li>
@@ -72,7 +72,7 @@
 							Looosers.</p>
 						<form action="escape3.php" method="post">
 							<input type="hidden" name="direction" value="4">
-							<button type="submit" class="button big special">Volver atrás y reintentar</button>
+							<button type="submit" class="button fit special">Volver atrás y reintentar</button>
 						</form>
 
 					</div>
@@ -95,6 +95,7 @@
 <script src="assets/js/skel.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/tooltip.js"></script>
 
 </body>
 </html>

@@ -71,7 +71,7 @@
 							Os destituyen del cuerpo y os pasáis vuestros días comiendo nachos con queso en el sótando de vuestros padres.
 							Looosers.</p>
 						<form action="oscuridad.php" method="post">
-							<button type="submit" class="button big special">Volver atrás y reintentar</button>
+							<button type="submit" class="button fit special">Volver atrás y reintentar</button>
 						</form>
 
 					</div>

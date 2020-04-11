@@ -36,8 +36,8 @@
 						todas coinciden con localizaciones en las que murderchef ha matado con su modus operandi.</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
-							<div class="image flush"><a href="images/historial.png" download>
-									<img src="images/historial.png" alt="maps"/>
+							<div class="image flush"><a href="images/historial.jpg" download>
+									<img src="images/historial.jpg" alt="maps"/>
 								</a>
 							</div>
 							<div class="inner">
@@ -45,7 +45,7 @@
 								<p>ñs vsds rdys urmfp rm ñs dohirmyr fotrvvopm.
 									Br im nñpwir jsvos fpmfr giodyr rm kimop, fpd nñpwird jsvos
 									fpmfr giodyr rm dr`yor,ntr. Ims ,smxsms frdfr yi tiys fr ,sup.
-									Fpd vsdsd fotrvvopm yi bodoys fr sntoñ.
+									Fpd vsdsd fotrvvopm yi bodoys fr grntrtp.
 									Mpd br,pd `tpmyp.</p>
 							</div>
 						</div>

@@ -41,27 +41,27 @@
 						<div class="gallery">
 							<div>
 								<div class="image fit flush">
-									<a href="images/ojo.jpg" title="María Luisa González"><img src="images/ojo.jpg"
+									<a href="images/ojo.jpg" title="María Luisa González" rel="tooltip"><img src="images/ojo.jpg"
 																							   alt="María Luisa González"
 										/></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="images/oreja.jpg" title="Pedro Cristobal"><img src="images/oreja.jpg" alt="Pedro Cristobal"
+									<a href="images/oreja.jpg" title="Pedro Cristobal" rel="tooltip"><img src="images/oreja.jpg" alt="Pedro Cristobal"
 										/></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="images/lengua.jpg" title="Ignacio de Lucas"><img src="images/lengua.jpg"
+									<a href="images/lengua.jpg" title="Ignacio de Lucas" rel="tooltip"><img src="images/lengua.jpg"
 																							  alt="Ignacio de Lucas"
 										/></a>
 								</div>
 							</div>
 							<div>
 								<div class="image fit flush">
-									<a href="images/pie.jpg" title="Susana Romero"><img src="images/pie.jpg" alt="Susana Romero"
+									<a href="images/pie.jpg" title="Susana Romero" rel="tooltip"><img src="images/pie.jpg" alt="Susana Romero"
 										/></a>
 								</div>
 							</div>
@@ -70,10 +70,16 @@
 				</section>
 				<section class="special align-center padding">
 					<h3>Cuál es la imagen que contiene la pista final:</h3>
+					<section>
+						<details>
+							<summary>Pedir ayuda a tu colega Margarita Díez.</summary>
+							<p>Te comenta que Pedro Cristobal murió asesinado el 15 de febrero de este año.</p>
+						</details>
+					</section>
 					<form action="escape_end.php" method="post">
 						<div class="align-center">
 							<input id="name" type="text" name="name">
-							<label for="name">Nombre de la víctima</label>
+							<label for="name">Nombre de la próxima víctima</label>
 						</div>
 
 						<div class="row margin-top pull-right">
@@ -99,6 +105,7 @@
 <script src="assets/js/skel.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/tooltip.js"></script>
 
 </body>
 </html>

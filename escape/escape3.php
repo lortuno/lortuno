@@ -74,7 +74,7 @@
 							comiendo doritos en la penumbra de vuestro cuarto. Looosers.</p>
 						<form action="escape2.php" method="post">
 							<input type="hidden" name="password" value="tenedoR">
-							<button type="submit" class="button big special">Volver atrás y reintentar</button>
+							<button type="submit" class="button fit special">Volver atrás y reintentar</button>
 						</form>
 
 					</div>
