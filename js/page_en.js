@@ -31,8 +31,8 @@ var data = {
 	mytech: "Technologies I manage.",
 	link_linkedin: "https://es.linkedin.com/in/lauraortunolopez",
 	link_infojobs: "https://www.infojobs.net/laura-ortuno-lopez.prf",
-	aboutme: "Currently working on a leading travelling insurance company, with market in Spain, France, Italy and Portugal. " +
-	"My tasks are full stack oriented, from creating tables and connections for the database or MVC logic, to designing the front-end with javascript and HTML5. " +
+	aboutme: "Currently working on a leading magazine company, with market in Spain, Mexico, Usa, among others. " +
+	"My tasks are full stack oriented, from creating tables and connections for the database or MVC logic, to designing front-end scripts or layouts with javascript and HTML5. " +
 	"My background with a bachelor and master's degree completes my profile with a more holistic and methodic way of working, that allows me to be a project manager having a more complete perspective of the company beyond the programming part. " +
 	"I'm clever, thorough and good at writing documents, both in english and spanish (and currently improving my french). I consider myself imaginative, responsible, and hard working, and I'm searching for an opportunity to grow my creative skills in a modern and professional environment.",
 	name: "Name",
@@ -265,7 +265,7 @@ var data = {
 			width: "100px",
 			heigth: "100px",
 			name: "Symfony",
-			src: "https://lh3.googleusercontent.com/proxy/ecDj5IuIq5D-8aZ8WX6pcZ8F6t8EDtKw4qM8eonnbvHFZ8WVkDU62G32Y9KwvInAJslcmFc1-qfk2J1sPH_LyFTTAWCdqPSEMOJkUcL1yQFDJw"
+			src: "https://lineadecodigo.com/wp-content/uploads/2019/04/symfony.png"
 		},
 		{
 			width: "100px",
