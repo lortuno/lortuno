@@ -65,16 +65,26 @@
 						<h2>THE END</h2>
 					</section>
                 <?php } else { ?>
-					<div class="align-center padding">
-						<p>¡Vaya!, habéis enviado una patrulla a la dirección que no era y habéis dejado escapar al criminal.
-							Una persona aparece muerta a las pocas horas, y Murderchef sigue suelto.
-							Os destituyen del cuerpo y os pasáis vuestros días comiendo nachos con queso en el sótando de vuestros padres.
-							Looosers.</p>
-						<form action="oscuridad.php" method="post">
-							<button type="submit" class="button fit special">Volver atrás y reintentar</button>
-						</form>
-
-					</div>
+                    <?php if (parseName($_POST['name']) == "pedrocristobal") { ?>
+						<div class="align-center padding">
+							<p>¡Pero cómo va a ser Pedro, lumbreras!, Tu jefe te dice que no le hagas perder el tiempo con
+								órdenes de protección a personas que ya están muertas y te recomienda que te esmeres más si no quieres
+								que estos sean tus últimos minutos como policía.</p>
+							<form action="oscuridad.php" method="post">
+								<button type="submit" class="button fit special">Volver atrás y reintentar</button>
+							</form>
+						</div>
+                    <?php } else { ?>
+						<div class="align-center padding">
+							<p>¡Vaya!, habéis enviado una patrulla a la dirección que no era y habéis dejado escapar al criminal.
+								Una persona aparece muerta a las pocas horas, y Murderchef sigue suelto.
+								Os destituyen del cuerpo y os pasáis vuestros días comiendo nachos con queso en el sótando de vuestros padres.
+								Looosers.</p>
+							<form action="oscuridad.php" method="post">
+								<button type="submit" class="button fit special">Volver atrás y reintentar</button>
+							</form>
+						</div>
+                    <?php } ?>
                 <?php } ?>
 			</div>
 		</section>

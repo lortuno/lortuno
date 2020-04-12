@@ -72,7 +72,7 @@
 					<h3>Cuál es la imagen que contiene la pista final:</h3>
 					<section>
 						<details>
-							<summary>Pedir ayuda a tu colega Margarita Díez.</summary>
+							<summary>Pedirle a vuestra colega Margarita Díez que repase el expediente del caso por si hubiera más información.</summary>
 							<p>Te comenta que Pedro Cristobal murió asesinado el 15 de febrero de este año.</p>
 						</details>
 					</section>
