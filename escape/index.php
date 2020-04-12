@@ -27,8 +27,9 @@
 			<header class="special">
 				<h2>El caso</h2>
 				<p>Sigue las pistas y atrapa al asesino antes de que escape.</p>
-				<p>Este juego se puede hacer solo o en grupo, solo necesitas un ordenador (o móvil, aunque se ve mejor en PC) y un bloc de notas. Debería resolverse en menos de
-					una hora...</p>
+				<p>Este juego se puede hacer solo o en grupo, solo necesitas un ordenador (o móvil, aunque se ve mejor en PC) y un bloc de notas.
+					Debería resolverse en menos de
+					69 minutos, que corra el reloj...</p>
 			</header>
 			<div class="content">
 				<p>Sois Jane Peralta y Tony Santiago, dos detectives de la comisaría de Aragón siguiendo la pista del famoso criminal Murderchef.
