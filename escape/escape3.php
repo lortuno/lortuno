@@ -34,7 +34,7 @@
 					<p>Llegáis a un chalet en las afueras, en una calle tranquila llena de adosados. Accedéis por la puerta de atrás, pistola en alto,
 						pero nadie acude en vuestra busca. Al entrar en el salón veis los restos de una partida de póker clandestina. Han dejado las
 						cartas sobre la mesa con las fichas de la última jugada (y sus sitios llevan sus nombres como si los hubieran repartido
-						aleatoriamente antes de jugar) pero han desaparecido por algún motivo no hace mucho.
+						aleatoriamente antes de jugar, lo cual os resulta extremadamente útil) pero han desaparecido por algún motivo no hace mucho.
 						La sala está un poco revuelta, parece que hubo una pelea. Descubrir qué ha pasado es la única manera de averiguar su siguiente
 						movimiento. Daros prisa, ¡se os acaba el tiempo! </p>
 					<section id="three" class="wrapper">

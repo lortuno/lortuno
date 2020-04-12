@@ -48,7 +48,7 @@
 									<img src="images/laberinto.png" alt="laberinto"/></a>
 							</div>
 							<div class="inner">
-								<p>La forma y el color son muy importantes en la cocina.
+								<p>La forma y el color son esenciales en cocina.
 									Para hacer el zumo por cada pieza de fruta hay que
 									<span title="Multiplicar" rel="tooltip">echar</span>:</p>
 								<ul class="align-left">
