@@ -11,7 +11,7 @@
 
 <!-- Header -->
 <header id="header">
-	<div class="logo"><a href="#">Escape <span>the QUARENTEEN</span></a></div>
+	<div class="logo"><a href="#">Escape <span>the QUARANTINE</span></a></div>
 </header>
 
 <!-- Main -->
@@ -38,10 +38,10 @@
 					modesto, parece solo un sitio de paso, pero encontráis que se ha llevado todas las cosas personales con mucha prisa.</p>
 				<p> Apenas hay
 					un montón de sábanas revueltas, una planta mustia, varios <a
-							href="https://drive.google.com/open?id=1Ayy7DbUfwyBCu2-p7TU6GKRVyNmDjzg4"
+							href="https://drive.google.com/open?id=1pAEPGQ9WOqGPhiStMQE-dK4xcCRW0XsF"
 							target="_blank">libros</a> polvorientos en la
 					estantería... En el fondo de un cajón del
-					armario aparece una tablet bloqueada con un postit por la parte de atrás. </p>
+					armario aparece una tablet bloqueada con un postit por la parte de atrás.</p>
 			</div>
 		</section>
 		<section id="three" class="wrapper">
@@ -61,6 +61,12 @@
 					</div>
 				</div>
 			</div>
+			<section class="margin-top padding">
+				<details>
+					<summary>Obtener ayuda: Llamar al hacker de tu unidad.</summary>
+					<p>Te dice con bastante seguridad que la contraseña va a ser una palabra con sentido, de 7 letras.</p>
+				</details>
+			</section>
 			<section class="special align-center padding">
 				<h3>Desbloquear</h3>
 				<form action="escape2.php" method="post">

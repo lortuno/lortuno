@@ -11,7 +11,7 @@
 
 <!-- Header -->
 <header id="header">
-	<div class="logo"><a href="#">Escape <span>the QUARENTEEN</span></a></div>
+	<div class="logo"><a href="#">Escape <span>the QUARANTINE</span></a></div>
 </header>
 
 <!-- Main -->
@@ -31,9 +31,14 @@
 			<div class="content">
                 <?php
                 if ($_POST['player'] === "2") { ?>
-					<p>David Sebastian no solo es un tramposo empedernido, sino que resulta ser el nombre en clave de vuestro sospechoso, y al conocer
+					<p>Afortunadamente habéis seguido a David Sebastian, que resulta ser el nombre en clave de vuestro sospechoso, y al conocer
 						su apodo desbloqueáis un posible paradero
-						de un testigo que un compañero interrogó la semana pasada. Llegáis a un sótano utilizado como cuarto de lavadoras. Vuestra
+						de un testigo que un compañero interrogó la semana pasada. Si hubiérais seguido a cualquier otro hubiera sido una tremenda
+						pérdida de tiempo, ya que como os informa el capitán de la brigada al cabo de unas horas, han encontrado en unas bolsas de
+						basura a un par de manzanas de la casa, los cadáveres de los demás jugadores. Parece que ha Murderchef no le hizo gracia que
+						le intentaran hacer trampas...
+					</p>
+					<p>Llegáis a un sótano utilizado como cuarto de lavadoras. Vuestra
 						linterna de luz negra detecta restos de sangre en una esquina. Podría ser el lugar donde Murderchef lleva a cabo sus
 						asesinatos. En la pared hay colgado un póster con un mapa de un laberinto. Santiago descubre un candado numérico en una puerta
 						oculta para acceder a otra sala.</p>
@@ -43,7 +48,8 @@
 									<img src="images/laberinto.png" alt="laberinto"/></a>
 							</div>
 							<div class="inner">
-								<p title="Solo funciona si obtenemos un decágono" rel="tooltip">Para hacer el zumo por cada pieza de fruta hay que echar:</p>
+								<p title="La forma y el color son importantes" rel="tooltip">Para hacer el zumo por cada pieza de fruta hay que
+									echar:</p>
 								<ul class="align-left">
 									<li>Siete gotas de agua.</li>
 									<li>Tres rodajas de plátano.</li>
@@ -67,7 +73,7 @@
 					</section>
                 <?php } else { ?>
 					<div class="align-center padding">
-						<p>¡Maldita sea!, habeis perseguido a un inocente y perdido toda la credibilidad de vuestro departamento.
+						<p>¡Maldita sea!, habéis perseguido a un inocente y perdido toda la credibilidad de vuestro departamento.
 							Murderchef ha escapado y a vosotros os han reasignado a allanamientos.
 							Looosers.</p>
 						<form action="escape3.php" method="post">

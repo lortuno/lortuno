@@ -11,7 +11,7 @@
 
 <!-- Header -->
 <header id="header">
-	<div class="logo"><a href="#">Escape <span>the QUARENTEEN</span></a></div>
+	<div class="logo"><a href="#">Escape <span>the QUARANTINE</span></a></div>
 </header>
 
 <!-- Main -->
@@ -33,19 +33,21 @@
                 if ($_POST['direction'] === "4") { ?>
 					<p>Llegáis a un chalet en las afueras, en una calle tranquila llena de adosados. Accedéis por la puerta de atrás, pistola en alto,
 						pero nadie acude en vuestra busca. Al entrar en el salón veis los restos de una partida de póker clandestina. Han dejado las
-						cartas sobre la mesa con las fichas de la última jugada y han salido corriendo por algún motivo no hace mucho.
-						Probablemente el ganador recogiera sus ganancias con prisa. Parece la
-						pista hacia su siguiente movimiento.</p>
+						cartas sobre la mesa con las fichas de la última jugada (y sus sitios llevan sus nombres como si los hubieran repartido
+						aleatoriamente antes de jugar) y han desaparecido por algún motivo no hace mucho.
+						Probablemente el ganador recogiera sus ganancias con prisa, la sala está un poco revuelta. Parece la
+						pista hacia su siguiente movimiento. Daros prisa, ¡se os acaba el tiempo! </p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
 							<div class="image flush">
-								<a href="images/poker.png" download>
-									<img src="images/poker.png" alt="poker"/>
+								<a href="images/poker_table.jpg" download>
+									<img src="images/poker_table.jpg" alt="poker"/>
 								</a>
 							</div>
 							<div class="inner">
 								<h3>Baraja</h3>
-								<p title="Sin embargo, hay una carta que falta">El mazo de cartas consta, contando con las cartas de la mesa, de 54
+								<p title="Sin embargo, hay una carta que falta" rel="tooltip">El mazo consta, contando con las cartas de la
+									mesa, de 54
 									cartas. Los comodines se han dejado apartados.</p>
 							</div>
 						</div>
@@ -69,11 +71,12 @@
 					</section>
                 <?php } else { ?>
 					<div class="align-center padding">
-						<p>¡Vaya!, habeis ido a la dirección que no era y habéis perdido al criminal. Os destituyen del cuerpo y os pasáis vuestros
+						<p>¡Vaya!, habeis seguido al criminal que no era y habéis perdido el rastro de Murdechef. Os destituyen del cuerpo y os pasáis
+							vuestros
 							días
 							comiendo doritos en la penumbra de vuestro cuarto. Looosers.</p>
 						<form action="escape2.php" method="post">
-							<input type="hidden" name="password" value="tenedoR">
+							<input type="hidden" name="password" value="TenedoR">
 							<button type="submit" class="button fit special">Volver atrás y reintentar</button>
 						</form>
 
@@ -97,6 +100,7 @@
 <script src="assets/js/skel.min.js"></script>
 <script src="assets/js/util.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/tooltip.js"></script>
 
 </body>
 </html>

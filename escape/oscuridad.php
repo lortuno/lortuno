@@ -11,7 +11,7 @@
 
 <!-- Header -->
 <header id="header">
-	<div class="logo"><a href="#">Escape <span>the QUARENTEEN</span></a></div>
+	<div class="logo"><a href="#">Escape <span>the QUARANTINE</span></a></div>
 </header>
 
 <!-- Main -->

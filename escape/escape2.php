@@ -11,7 +11,7 @@
 
 <!-- Header -->
 <header id="header">
-	<div class="logo"><a href="#">Escape <span>the QUARENTEEN</span></a></div>
+	<div class="logo"><a href="#">Escape <span>the QUARANTINE</span></a></div>
 </header>
 
 <!-- Main -->
@@ -30,7 +30,7 @@
 			</header>
 			<div class="content">
                 <?php
-                if ($_POST['password'] === 'tenedoR') { ?>
+                if ($_POST['password'] === 'TenedoR') { ?>
 					<p>Habéis desbloqueado la tablet. Al hacerlo veis el email abierto con un mensaje destacado en pantalla.
 						Para entenderlo miráis inmediatamente el historial de las últimas ubicaciones visitadas. Curiosamente,
 						todas coinciden con localizaciones en las que murderchef ha matado con su modus operandi.</p>
@@ -49,6 +49,16 @@
 									Mpd br,pd `tpmyp.</p>
 							</div>
 						</div>
+					</section>
+					<section class="special margin-top padding">
+						<details>
+							<summary>Consultar con el hacker de vuestra unidad.</summary>
+							<p>Deduce que el mensaje encriptado puede estar basada en alguna terminología qwerty.</p>
+						</details>
+						<details>
+							<summary>Pedir orientación del sargento Tomás Núñez.</summary>
+							<p>Os sugiere que averigüéis cómo llegar a los sitios del historial.</p>
+						</details>
 					</section>
 					<section class="special align-center padding">
 						<h3>Qué dirección vais a tomar ahora:</h3>
