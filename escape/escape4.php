@@ -48,13 +48,15 @@
 									<img src="images/laberinto.png" alt="laberinto"/></a>
 							</div>
 							<div class="inner">
-								<p title="La forma y el color son importantes" rel="tooltip">Para hacer el zumo por cada pieza de fruta hay que
-									echar:</p>
+								<p>La forma y el color son muy importantes en la cocina.
+									Para hacer el zumo por cada pieza de fruta hay que
+									<span title="Multiplicar" rel="tooltip">echar</span>:</p>
 								<ul class="align-left">
 									<li>Siete gotas de agua.</li>
 									<li>Tres rodajas de plátano.</li>
 									<li>Apartar la fresa para la próxima preparación.</li>
 								</ul>
+								<p>Después se <span title="suma" rel="tooltip">añade</span> la siguiente y se mezcla.</p>
 							</div>
 						</div>
 						<div class="spotlight">
@@ -62,6 +64,12 @@
 							</div>
 							<div class="inner">
 								<h3>Clave de la puerta:</h3>
+								<section class="special margin-top">
+									<details>
+										<summary>Pedir consejo a Carlos Piedra sobre esto.</summary>
+										<p>Os dice que es muy importante que tengáis en cuenta la 4 posiciones del candado.</p>
+									</details>
+								</section>
 								<form action="escape5.php" method="post">
 									<input type="text" id="paso" name="paso">
 									<div class="row margin-top pull-right">

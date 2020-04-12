@@ -42,7 +42,7 @@
 							<div class="image flush"><img src="images/tarros.jpg" alt="jars"/></div>
 							<div class="inner">
 								<h3 title="Pista: es un acertijo">Receta</h3>
-								<p>Coger las piezas de una en una y batir a 0.5 de velocidad.</p>
+								<p>Coger las piezas en el orden indicado, de una en una (o el número que se indique) y batir a 0.5 de velocidad.</p>
 								<ol>
 									<li>0:24 <a href="https://www.youtube.com/watch?v=97SvRSXehM0" target="_blank">2 huevos</a></li>
 									<li>0:40 <a href="https://www.youtube.com/watch?v=uDZ716e4eSU" target="_blank">Mantequilla</a></li>
@@ -59,8 +59,8 @@
 						<section class="margin-top">
 							<details>
 								<summary>Pedir ayuda a tu colega Carlos Piedra.</summary>
-								<p>Te indica que cada vídeo contiene la palabra de un acertijo, en orden.</p>
-								<p>Si el nº de ingredientes es 2, son dos palabras.</p>
+								<p>Te indica que cada vídeo contiene la palabra de un <strong>acertijo</strong>, en ese orden para formar una frase.</p>
+								<p>Si el nº de ingredientes es 2, son dos palabras. Te aconseja que apuntes lo que oigas y le des sentido en conjunto.</p>
 							</details>
 						</section>
 					</section>

@@ -32,8 +32,10 @@
                 <?php
                 if ($_POST['password'] === 'TenedoR') { ?>
 					<p>Habéis desbloqueado la tablet. Al hacerlo veis el email abierto con un mensaje destacado en pantalla.
-						Para entenderlo miráis inmediatamente el historial de las últimas ubicaciones visitadas. Curiosamente,
-						todas coinciden con localizaciones en las que murderchef ha matado con su modus operandi.</p>
+						Además, buscáis inmediatamente el historial de las últimas ubicaciones visitadas. Curiosamente,
+						todas coinciden con localizaciones en las que murderchef ha matado con su modus operandi.
+						Tenéis la corazonada de que los lugares y el mensaje están relacionados de alguna forma.
+					</p>
 					<section id="three" class="wrapper">
 						<div class="spotlight alt">
 							<div class="image flush"><a href="images/historial.jpg" download>
@@ -53,7 +55,7 @@
 					<section class="special margin-top padding">
 						<details>
 							<summary>Consultar con el hacker de vuestra unidad.</summary>
-							<p>Deduce que el mensaje encriptado puede estar basada en alguna terminología qwerty.</p>
+							<p>Deduce que el mensaje encriptado puede estar basada en alguna terminología qwerty de sustitución de letras.</p>
 						</details>
 						<details>
 							<summary>Pedir orientación del sargento Tomás Núñez.</summary>

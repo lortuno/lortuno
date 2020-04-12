@@ -30,7 +30,7 @@
 			</header>
 			<div class="content">
 				<p>Al entrar en la url aparecen 4 imágenes, de las partes del cuerpo que va a usar en su receta especial. En el pie de la página veis
-					en letra cambria 11 una siniestra frase "recolectar en".
+					en letra cambria 11 una siniestra frase "Recolectar en".
 					Examináis las fotos a fondo para saber más. Debe de haber alguna pista dentro de ellas.
 				</p>
 				<section id="two" class="wrapper style2">
