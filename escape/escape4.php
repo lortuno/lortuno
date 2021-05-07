@@ -64,18 +64,28 @@
 							</div>
 							<div class="inner">
 								<h3>Clave de la puerta:</h3>
-								<section class="special margin-top">
+								<section>
 									<details>
 										<summary>Pedir consejo a Carlos Piedra sobre esto.</summary>
+										<p>Observa que la forma y el orden también son relevantes.</p>
+									</details>
+									<details>
+										<summary>Lo lleváis pensando un rato, rellamar a Carlos.</summary>
 										<p>Os dice que es muy importante que tengáis en cuenta la 4 posiciones del candado.</p>
 									</details>
+									<details>
+										<summary>Carlos os manda un sms a los 10 minutos.</summary>
+										<p>Recordad que el cero es un número...</p>
+									</details>
 								</section>
-								<form action="escape5.php" method="post">
-									<input type="text" id="paso" name="paso">
-									<div class="row margin-top pull-right">
-										<button class="button alt" type="submit">Enviar</button>
-									</div>
-								</form>
+								<div class="margin-top">
+									<form action="escape5.php" method="post">
+										<input type="text" id="paso" name="paso">
+										<div class="row margin-top pull-right">
+											<button class="button alt" type="submit">Enviar</button>
+										</div>
+									</form>
+								</div>
 							</div>
 						</div>
 					</section>

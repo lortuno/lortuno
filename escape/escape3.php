@@ -52,6 +52,12 @@
 							</div>
 						</div>
 					</section>
+					<section class="special margin-top padding">
+						<details>
+							<summary>Estáis nerviosos, apoyaros en vuestra amiga Tina, que nunca falla.</summary>
+							<p>Sus dotes de observación le llevan a resaltar que el número de cartas no cuadran ¿alguien ha hecho trampas?.</p>
+						</details>
+					</section>
 					<section class="special align-center padding">
 						<h3>Qué jugador vais a perseguir:</h3>
 						<form action="escape4.php" method="post">

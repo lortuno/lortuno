@@ -61,6 +61,10 @@
 							<summary>Pedir orientación del sargento Tomás Núñez.</summary>
 							<p>Os sugiere que averigüéis cómo llegar a los sitios del historial.</p>
 						</details>
+						<details>
+							<summary>Implorarle de nuevo al hacker (qwerqueé?).</summary>
+							<p>Él piensa que se podría descodificar moviéndonos una letra a la izquierda.</p>
+						</details>
 					</section>
 					<section class="special align-center padding">
 						<h3>Qué dirección vais a tomar ahora:</h3>

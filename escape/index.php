@@ -67,6 +67,15 @@
 					<summary>Obtener ayuda: Llamar al hacker de tu unidad.</summary>
 					<p>Te dice con bastante seguridad que la contraseña va a ser una palabra con sentido, de 7 letras.</p>
 				</details>
+				<details>
+					<summary>Volver a llamar al hacker (esperemos que no se canse).</summary>
+					<p>Te sugiere que empieces por la página 5 del Libro de Recetas de CC, línea 2...</p>
+				</details>
+				<details>
+					<summary>Decirle al hacker que no se ande con tantos rodeos.</summary>
+					<p>A pesar de tu mal humor, te anima a creer en ti mismo. sólo fíjate bien en cómo vienen
+					escritas las palabras...</p>
+				</details>
 			</section>
 			<section class="special align-center padding">
 				<h3>Desbloquear</h3>
