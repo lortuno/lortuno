@@ -75,6 +75,14 @@
 							<summary>Pedirle a vuestra colega Margarita Díez que repase el expediente del caso por si hubiera más información.</summary>
 							<p>Te comenta que Pedro Cristobal murió asesinado el 15 de febrero de este año.</p>
 						</details>
+						<details>
+							<summary>Llamar al hacker (le echáis de menos).</summary>
+							<p>Dice que no pinta nada en este tipo de prueba, pero te recuerda que hoy es 23/04/2020.</p>
+						</details>
+						<details>
+							<summary>Mandar un mensaje de ayuda a Tina, que siempre tiene alguna idea.</summary>
+							<p>Os sugiere que consultéis un calendario lunar para entender cuándo le toca matar.</p>
+						</details>
 					</section>
 					<form action="escape_end.php" method="post">
 						<div class="align-center">
