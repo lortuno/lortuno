@@ -33,8 +33,8 @@ var data = {
     link_linkedin: 'https://es.linkedin.com/in/lauraortunolopez',
     link_infojobs: 'https://www.infojobs.net/laura-ortuno-lopez.prf',
     aboutme: 'Actualmente trabajando en una empresa de electrodomésticos de la casa (thermommix y Kobold). Me dedico a la programaci\u00F3n, ' +
-      'arquitectura y maquetaci\u00F3n web, especialmente en la parte de lógica Backend. Mantenimiento de API, administrador y páginas de perfil' +
-      'Me considero capacitada para llevar un equipo de trabajo, entender las necesidades del cliente y diferenciar entre urgente e importante a la hora de priorizar proyectos e incidencias.' +
+      'arquitectura y maquetaci\u00F3n web, especialmente en la parte de lógica Backend. Mantenimiento de API, administrador y páginas de perfil.' +
+      ' Me considero capacitada para llevar un equipo de trabajo, entender las necesidades del cliente y diferenciar entre urgente e importante a la hora de priorizar proyectos e incidencias.' +
       'Tengo experiencia como programadora tanto en la parte FRONT como BACKEND y estoy interesada en la mejora continua y la puesta en marcha de nuevas tecnologías y posibilidades.' +
       ' Por ello estoy abierta a proyectos que me supongan un nuevo reto en cuanto a innovación y calidad.',
     p_parrafo: 'Si te interesa mi curriculum puedes ponerte en contacto conmigo a trav\u00E9s de este formulario.',

@@ -31,7 +31,7 @@ var data = {
 	mytech: "Technologies I manage.",
 	link_linkedin: "https://es.linkedin.com/in/lauraortunolopez",
 	link_infojobs: "https://www.infojobs.net/laura-ortuno-lopez.prf",
-	aboutme: "Currently working on a leading cuisine company, with market in Spain, Mexico, Usa, among others. " +
+	aboutme: "Currently working on a leading cuisine company, with market in Spain, Germany, France, among others. " +
 	"My tasks are backend oriented, using symfony, docker and gitlab, to mantain and improve both the API and the admin area for profiles." +
 	"Also implement gitlab steps, testing and frontend requirements such as js, twigs or email templates" +
 	"My background with a bachelor and master's degree completes my profile with a more holistic and disciplined way of working, that allows me to be a project manager having a more complete perspective of the company beyond the programming part. " +
