@@ -32,8 +32,8 @@ var data = {
     mytech: 'Tecnolog\u00EDas que domino.',
     link_linkedin: 'https://es.linkedin.com/in/lauraortunolopez',
     link_infojobs: 'https://www.infojobs.net/laura-ortuno-lopez.prf',
-    aboutme: 'Actualmente trabajando en una revista de entretenimiento internacional. Me dedico a la programaci\u00F3n, ' +
-      'arquitectura y maquetaci\u00F3n web, especialmente en la parte de lógica Backend. ' +
+    aboutme: 'Actualmente trabajando en una empresa de electrodomésticos de la casa (thermommix y Kobold). Me dedico a la programaci\u00F3n, ' +
+      'arquitectura y maquetaci\u00F3n web, especialmente en la parte de lógica Backend. Mantenimiento de API, administrador y páginas de perfil' +
       'Me considero capacitada para llevar un equipo de trabajo, entender las necesidades del cliente y diferenciar entre urgente e importante a la hora de priorizar proyectos e incidencias.' +
       'Tengo experiencia como programadora tanto en la parte FRONT como BACKEND y estoy interesada en la mejora continua y la puesta en marcha de nuevas tecnologías y posibilidades.' +
       ' Por ello estoy abierta a proyectos que me supongan un nuevo reto en cuanto a innovación y calidad.',
@@ -162,6 +162,10 @@ var data = {
             src: 'images/18.jpg',
             details: [
                 {
+                    company_name: 'Vorwerk',
+                    tasks: 'Orientada a backend development (con Symfony y docker) para desarrollar la api y el backend de perfiles de la empresa.'
+                },
+                {
                     company_name: 'HOLA',
                     tasks: 'Enfocada a backend development (con Symfony y docker) para desarrollar las webs de la compañía.'
                 },
@@ -248,7 +252,7 @@ var data = {
         {
             src: 'images/escape.png',
             title: 'Lortuno',
-            url: 'http://www.lortuno.mipropia.com/escape'
+            url: 'http://lortuno.lovestoblog.com/escape'
         },
         {
             src: 'images/hola.png',
@@ -257,12 +261,11 @@ var data = {
         }
     ],
     technologies: [
-
         {
             width: '100px',
             heigth: '100px',
             name: 'PHPStorm',
-            src: 'https://www.stickpng.com/assets/images/584816c8cef1014c0b5e4987.png'
+            src: "https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg"
         },
         {
             width: '100px',
@@ -358,7 +361,7 @@ var data = {
             width: '100px',
             heigth: '100px',
             name: 'Postman',
-            src: 'https://www.getpostman.com/img/v2/logo-glyph.png'
+            src: 'https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png'
         },
         {
             width: '100px',

@@ -39,7 +39,7 @@
 	<!-- Two -->
 	<section id="two">
 		<h2>Este soy yo</h2>
-		<p>Me llamo Tiburón, soy un mestizo de chihuaha, y aunque parezco muy pequeñito ya soy algo mayor.</p>
+		<p>Me llamo Tiburón, soy un mestizo de chihuahua, y aunque parezco muy pequeñito ya soy algo mayor.</p>
 		<p>No me gustan mucho las galletas, prefiero la comida de perro, y estar en mi camita.</p>
 		<p>Soy algo tímido al principio, ¡soy adoptado! pero ahora sé que me quieren mucho.</p>
 		<p>Los perros grandes me dan miedo y les ladro para marcar territorio, y no me gusta que me toquen el hocico, las orejas ni las patas.

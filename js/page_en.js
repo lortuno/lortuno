@@ -31,9 +31,10 @@ var data = {
 	mytech: "Technologies I manage.",
 	link_linkedin: "https://es.linkedin.com/in/lauraortunolopez",
 	link_infojobs: "https://www.infojobs.net/laura-ortuno-lopez.prf",
-	aboutme: "Currently working on a leading magazine company, with market in Spain, Mexico, Usa, among others. " +
-	"My tasks are full stack oriented, from creating tables and connections for the database or MVC logic, to designing front-end scripts or layouts with javascript and HTML5. " +
-	"My background with a bachelor and master's degree completes my profile with a more holistic and methodic way of working, that allows me to be a project manager having a more complete perspective of the company beyond the programming part. " +
+	aboutme: "Currently working on a leading cuisine company, with market in Spain, Mexico, Usa, among others. " +
+	"My tasks are backend oriented, using symfony, docker and gitlab, to mantain and improve both the API and the admin area for profiles." +
+	"Also implement gitlab steps, testing and frontend requirements such as js, twigs or email templates" +
+	"My background with a bachelor and master's degree completes my profile with a more holistic and disciplined way of working, that allows me to be a project manager having a more complete perspective of the company beyond the programming part. " +
 	"I'm clever, thorough and good at writing documents, both in english and spanish (and currently improving my french). I consider myself imaginative, responsible, and hard working, and I'm searching for an opportunity to grow my creative skills in a modern and professional environment.",
 	name: "Name",
 	email: "Email",
@@ -48,7 +49,7 @@ var data = {
 			src: "images/uam.png",
 			details: [
 				{
-					description: "Bachelor's degree in Enviromental Science  (2006-2010).[Universidad Aut\u00F3noma de Madrid] ."
+					description: "Bachelor's degree in Environmental Science  (2006-2010).[Universidad Aut\u00F3noma de Madrid] ."
 				}
 			]
 		},
@@ -160,6 +161,10 @@ var data = {
 			src: "images/18.jpg",
 			details: [
 				{
+					company_name: 'Vorwerk',
+					tasks: 'Focused on backend development (with Symfony and docker) to develop the company profiles backend and api.'
+				},
+				{
 					company_name: "HOLA",
 					tasks: "Special focus on backend development (with Symfony and docker) to develop the company websites."
 				},
@@ -246,7 +251,7 @@ var data = {
 		{
 			src: "images/escape.png",
 			title: "Lortuno",
-			url: "http://www.lortuno.mipropia.com/escape"
+			url: "http://lortuno.lovestoblog.com/escape"
 		},
 		{
 			src: "images/hola.png",
@@ -259,7 +264,7 @@ var data = {
 			width: "100px",
 			heigth: "100px",
 			name: "PHPStorm",
-			src: "https://www.stickpng.com/assets/images/584816c8cef1014c0b5e4987.png"
+			src: "https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg"
 		},
 		{
 			width: "100px",
@@ -355,7 +360,7 @@ var data = {
 			width: "100px",
 			heigth: "100px",
 			name: "Postman",
-			src: "https://www.getpostman.com/img/v2/logo-glyph.png"
+			src: "https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png"
 		},
 		{
 			width: "100px",
