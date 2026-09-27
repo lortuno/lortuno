@@ -1,81 +1,54 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <head>
-<title>Not found</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<link href='//fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
-<style type="text/css">
-body{
-	font-family: 'Courgette', cursive;
-}
-body{
-	background:#F0F0F0;
-}	
-.wrap{
-	margin:0 auto;
-	width:1000px;
-}
-.logo{
-	margin-top:50px;
-}	
-
-.logo h1{
-	font-size:200px;
-	text-align:center;
-	margin-bottom:1px;
-	text-shadow:1px 1px 6px #fff; 
-	color: #006;
-}	
-.logo p{
-	color: #CC0;
-	font-size:20px;
-	margin-top:1px;
-	text-align:center;
-}	
-.logo p span{
-	color:#606;
-}	
-.sub a{
-	color:white;
-	background:#003;
-	text-decoration:none;
-	padding:7px 120px;
-	font-size:13px;
-	font-family: arial, serif;
-	font-weight:bold;
-	-webkit-border-radius:3em;
-	-moz-border-radius:.1em;
-	-border-radius:.1em;
-}	
-.footer{
-	background: url('../assets/images/teclado.jpg');
-	position: absolute;
-	right: -187px;
-	bottom: -29px;
-	width: 224px;
-	height: 58px;
-}	
-	
-</style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex">
+	<title>404 · Laura Ortuño López</title>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Space+Grotesk:wght@700&display=swap">
+	<style>
+		:root { --bg: #f6f7f9; --ink: #0f1b2d; --muted: #66758a; --accent: #0f6e8c; --accent-ink: #fff; }
+		@media (prefers-color-scheme: dark) {
+			:root { --bg: #0a111c; --ink: #e8eef5; --muted: #8595a8; --accent: #4fd1c5; --accent-ink: #062226; }
+		}
+		* { box-sizing: border-box; }
+		body {
+			margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 24px 16px;
+			background: var(--bg); color: var(--ink); font-family: Inter, system-ui, sans-serif; text-align: center;
+		}
+		h1 {
+			margin: 0; font-family: "Space Grotesk", sans-serif; font-size: clamp(96px, 22vw, 180px); line-height: 1;
+			background: linear-gradient(90deg, var(--accent), #7c4dff); -webkit-background-clip: text; background-clip: text; color: transparent;
+		}
+		p { max-width: 46ch; margin: 16px auto 0; color: var(--muted); }
+		.actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 32px; }
+		a {
+			display: inline-block; padding: 12px 22px; border-radius: 999px; font-weight: 600; text-decoration: none;
+			background: var(--accent); color: var(--accent-ink);
+		}
+		a.ghost { background: transparent; color: var(--ink); border: 1px solid currentColor; }
+	</style>
 </head>
-
-
 <body>
-
-<!---728x90--->
-	<div class="wrap">
-	   <div class="logo">
-	   <h1>404</h1>
-	    <p>Ha ocurrido un error, la página que buscas no existe o no se ha encontrado -Por favor, intenta escribirla de nuevo </p>
-		<!---728x90--->
-<div style="text-align: center;">
-</div>
-  	      <div class="sub">
-	        <p><a href="es.html">Volver</a></p>
-	      </div>
-      </div>
-</div>
-	<!---728x90--->
-<div style="text-align: center;"></div>
+	<main>
+		<h1>404</h1>
+		<p>La página que buscas no existe o se ha movido.<br>The page you're looking for doesn't exist or has moved.</p>
+		<div class="actions">
+			<a id="home-es" href="es.html">Volver al inicio</a>
+			<a id="home-en" class="ghost" href="index.html">Back to home</a>
+		</div>
+	</main>
+	<script>
+		// On GitHub Pages this page can be served at any depth; point links at the site root.
+		(function () {
+			var base = "/";
+			if (/\.github\.io$/.test(location.hostname)) {
+				var first = location.pathname.split("/")[1];
+				if (first) base = "/" + first + "/";
+			}
+			document.getElementById("home-es").href = base + "es.html";
+			document.getElementById("home-en").href = base + "index.html";
+		})();
+	</script>
 </body>
 </html>
