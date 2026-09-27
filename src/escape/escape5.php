@@ -62,6 +62,10 @@
 								<p>Te indica que cada vídeo contiene la palabra de un <strong>acertijo</strong>, en ese orden para formar una frase.</p>
 								<p>Si el nº de ingredientes es 2, son dos palabras. Te aconseja que apuntes lo que oigas y le des sentido en conjunto.</p>
 							</details>
+                            <details>
+                                <summary>Vuelve a llamar a Carlos Piedra.</summary>
+                                <p>¿Qué se ve con los ojos cerrados?</p>
+                            </details>
 						</section>
 					</section>
                 <?php } else { ?>

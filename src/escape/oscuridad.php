@@ -42,7 +42,7 @@
 							<div>
 								<div class="image fit flush">
 									<a href="images/ojo.jpg" title="María Luisa González" rel="tooltip"><img src="images/ojo.jpg"
-																							   alt="María Luisa González"
+                                                                                                             alt="María Luisa González"
 										/></a>
 								</div>
 							</div>
@@ -55,7 +55,7 @@
 							<div>
 								<div class="image fit flush">
 									<a href="images/lengua.jpg" title="Ignacio de Lucas" rel="tooltip"><img src="images/lengua.jpg"
-																							  alt="Ignacio de Lucas"
+                                                                                                            alt="Ignacio de Lucas"
 										/></a>
 								</div>
 							</div>

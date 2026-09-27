@@ -47,7 +47,7 @@ var data = {
     estudios_category: [
         {
             name: 'UAM',
-            src: 'images/uam.png',
+            src: '../assets/images/uam.png',
             details: [
                 {
                     description: 'Licenciada en Ciencias Ambientales (2006-2010).[Universidad Aut\u00F3noma de Madrid] .'
@@ -56,7 +56,7 @@ var data = {
         },
         {
             name: 'IMF',
-            src: 'images/imf.jpg',
+            src: '../assets/images/imf.jpg',
             details: [
                 {
                     description: 'Master oficial en Gesti\u00F3n Integrada de Prevenci\u00F3n de riesgos laborales, calidad y medio ambiente (ISO and OHSAS auditories) (2010-2011, 1800 hours) [CEU-IMF].'
@@ -65,7 +65,7 @@ var data = {
         },
         {
             name: 'FP',
-            src: 'images/fp.gif',
+            src: '../assets/images/fp.gif',
             details: [
                 {
                     description: 'Formaci\u00F3n Profesional Superior en Administraci\u00F3n de Sistemas inform\u00E1ticos en Red (media 9,1) [Diploma de excelencia] (2013-2014) [IES Virgen de la Paloma / Clara del Rey ].'
@@ -74,7 +74,7 @@ var data = {
         },
         {
             name: 'Other Courses',
-            src: 'images/53.jpg',
+            src: '../assets/images/53.jpg',
             details: [
                 {
                     description: 'Symfony 4: The whole path'
@@ -123,7 +123,7 @@ var data = {
     experience_category: [
         {
             name: 'Consultora',
-            src: 'images/consultoria.jpg',
+            src: '../assets/images/consultoria.jpg',
             details: [
                 {
                     company_name: 'Pleiades',
@@ -141,7 +141,7 @@ var data = {
         },
         {
             name: 'Help-Desk',
-            src: 'images/14.jpg',
+            src: '../assets/images/14.jpg',
             details: [
                 {
                     company_name: 'Pleiades',
@@ -159,7 +159,7 @@ var data = {
         },
         {
             name: 'Programadora',
-            src: 'images/18.jpg',
+            src: '../assets/images/18.jpg',
             details: [
                 {
                     company_name: 'Vorwerk',
@@ -195,67 +195,67 @@ var data = {
     ],
     portfolio: [
         {
-            src: 'images/pleiades.png',
+            src: '../assets/images/pleiades.png',
             title: 'Pleiades Corporativa',
             url: 'http://www.pleiades-ti.com/eng/home/'
         },
         {
-            src: 'images/pbc.png',
+            src: '../assets/images/pbc.png',
             title: 'Pleiades Business Backend',
             url: 'https://pbc.plds.es'
         },
         {
-            src: 'images/webinars_foto.png',
+            src: '../assets/images/webinars_foto.png',
             title: 'Portal contenidos Pleiades',
             url: 'https://portal.plds.es'
         },
         {
-            src: 'images/distrito22.jpg',
+            src: '../assets/images/distrito22.jpg',
             title: 'Distrito22',
             url: 'https://distrito22.org'
         },
         {
-            src: 'images/cumapp.png',
+            src: '../assets/images/cumapp.png',
             title: 'Estad\u00EDsticas Cumapp',
             url: 'http://www.cumapp.org/estadisticas/cumappalminuto.php'
         },
         {
-            src: 'images/dcl.png',
+            src: '../assets/images/dcl.png',
             title: 'Dental Ciudad Lineal',
             url: 'http://www.dentalciudadlineal.com'
         },
         /*{
-            src: "images/paire.png",
+            src: "../assets/images/paire.png",
             title: "Bisuter\u00EDa Pair\u00E9",
             url: "http://www.paire.esnuestraweb.com"
         },*/
         {
-            src: 'images/calendar_mon.png',
+            src: '../assets/images/calendar_mon.png',
             title: 'Monavislerendgratuit',
             url: 'https://www.monavislerendgratuit.com'
         },
         {
-            src: 'images/tata.png',
+            src: '../assets/images/tata.png',
             title: 'Opa! Ta-Ta',
             url: 'https://opa.shopadvizor.com.uy'
         },
         {
-            src: 'images/admin.png',
+            src: '../assets/images/admin.png',
             title: 'Administrator TrialPanel',
             url: 'http://www.monavislerendgratuit.com/administrator'
         },
         {
-            src: 'images/dulcescavi.png',
+            src: '../assets/images/dulcescavi.png',
             title: 'Dulces Cavi',
             url: 'http://dulcescavi.wix.com/Dulcescavi'
         },
         {
-            src: 'images/escape.png',
+            src: '../assets/images/escape.png',
             title: 'Lortuno',
             url: 'http://lortuno.lovestoblog.com/escape'
         },
         {
-            src: 'images/hola.png',
+            src: '../assets/images/hola.png',
             title: 'HOLA',
             url: 'https://www.hola.com/cocina/recetas/20200331164495/video-receta-pollo-ajillo/'
         }

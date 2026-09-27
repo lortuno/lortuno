@@ -72,6 +72,7 @@
 									<details>
 										<summary>Lo lleváis pensando un rato, rellamar a Carlos.</summary>
 										<p>Os dice que es muy importante que tengáis en cuenta la 4 posiciones del candado.</p>
+										<p>Hay que multiplicar los números disponibles de una pieza, los de otra y luego sumarlas.</p>
 									</details>
 									<details>
 										<summary>Carlos os manda un sms a los 10 minutos.</summary>

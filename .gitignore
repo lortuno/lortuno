@@ -1,0 +1,23 @@
+# Environment files
+.env
+.env.local
+
+
+# Editor files
+.idea/
+
+# Node
+node_modules/
+
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Test coverage
+coverage/
+
+# Logs
+logs/
+*.log

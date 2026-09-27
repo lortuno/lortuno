@@ -51,7 +51,7 @@
 				<p>Me gusta ponerme a dos patas, sobre todo para pedir comida de humano.</p>
 			</article>
 			<article class="col-6 col-12-xsmall work-item">
-				<a href="images/2.jpeg" class="image fit thumb"><img src="images/thumbs/2.jpeg" alt="" /></a>
+				<a href="images/fulls/2.jpeg" class="image fit thumb"><img src="images/thumbs/2.jpeg" alt="" /></a>
 				<h3>En el baño</h3>
 				<p>No estoy acomplejado pero tengo que vigilar mi peso...</p>
 			</article>
