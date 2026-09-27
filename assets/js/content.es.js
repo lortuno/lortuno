@@ -14,7 +14,7 @@ window.CV_CONTENT = {
 			contact: "Contacto"
 		},
 		skip: "Saltar al contenido",
-		switchLang: { label: "EN", title: "View in English", href: "index.html" },
+		switchLang: { label: "EN", title: "View in English", href: "../index.html" },
 		themeToLight: "Cambiar a tema claro",
 		themeToDark: "Cambiar a tema oscuro",
 		openMenu: "Abrir menú",
@@ -49,7 +49,7 @@ window.CV_CONTENT = {
 		email: "laura.ortunolopez@outlook.es",
 		linkedin: "https://www.linkedin.com/in/lauraortunolopez",
 		github: "https://github.com/lortuno",
-		cv: "assets/docs/Laura_Ortuno_Lopez_Senior_PHP_CV%20(092026).pdf",
+		cv: "../assets/docs/Laura_Ortuno_Lopez_Senior_PHP_CV%20(092026).pdf",
 		intro: "Diseño, desarrollo y lidero el backend de grandes plataformas ecommerce.",
 		summary: "Ingeniera Senior PHP / Symfony y Tech Lead con más de 10 años de experiencia profesional en desarrollo de software, con amplia trayectoria construyendo y manteniendo plataformas ecommerce. Mi foco es el liderazgo técnico: arquitectura en Azure, IaC con Terraform, CI/CD con GitHub Actions, toma de decisiones técnicas, planificación, estimación, revisiones de código y estándares de ingeniería."
 	},

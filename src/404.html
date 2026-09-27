@@ -35,7 +35,7 @@
 		<p>La página que buscas no existe o se ha movido.<br>The page you're looking for doesn't exist or has moved.</p>
 		<div class="actions">
 			<a id="home-es" href="es.html">Volver al inicio</a>
-			<a id="home-en" class="ghost" href="index.html">Back to home</a>
+			<a id="home-en" class="ghost" href="../index.html">Back to home</a>
 		</div>
 	</main>
 	<script>
@@ -46,8 +46,8 @@
 				var first = location.pathname.split("/")[1];
 				if (first) base = "/" + first + "/";
 			}
-			document.getElementById("home-es").href = base + "es.html";
-			document.getElementById("home-en").href = base + "index.html";
+			document.getElementById("home-es").href = base + "src/es.html";
+			document.getElementById("home-en").href = base;
 		})();
 	</script>
 </body>

@@ -8,9 +8,9 @@ $headers = "From: " . $_POST['name'] . " <" . $from . ">\r\n";
 $retval  = mail($to, $subject, $message, $headers);
 
 if ($retval == true) {
-    header("Location: /sent.php?result=success");
+    header("Location: sent.php?result=success");
 } else {
-    header("Location: /sent.php?result=error");
+    header("Location: sent.php?result=error");
 }
 
 ?>

@@ -14,7 +14,7 @@ window.CV_CONTENT = {
 			contact: "Contact"
 		},
 		skip: "Skip to content",
-		switchLang: { label: "ES", title: "Ver en español", href: "es.html" },
+		switchLang: { label: "ES", title: "Ver en español", href: "src/es.html" },
 		themeToLight: "Switch to light theme",
 		themeToDark: "Switch to dark theme",
 		openMenu: "Open menu",
