@@ -1,6 +1,6 @@
 /**
  * Portfolio app — React 18 + htm (JSX-like tagged templates, no build step).
- * Content comes from window.CV_CONTENT (js/content.en.js or js/content.es.js).
+ * Content comes from window.CV_CONTENT (assets/js/content.en.js or assets/js/content.es.js).
  */
 (function () {
 	"use strict";

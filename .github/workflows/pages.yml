@@ -27,11 +27,9 @@ jobs:
 
       - name: Stage static site
         run: |
-          mkdir -p _site/assets/images
+          mkdir -p _site
           cp src/index.html src/es.html src/404.html _site/
-          cp -r src/css src/js _site/
-          cp "assets/docs/Laura_Ortuno_Lopez_Senior_PHP_CV (092026).pdf" _site/assets/
-          cp assets/images/cv.png _site/assets/images/
+          cp -r assets _site/
           touch _site/.nojekyll
 
       - uses: actions/configure-pages@v5
