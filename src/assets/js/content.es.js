@@ -1,6 +1,6 @@
 /**
  * Contenido del CV — Español.
- * Fuente: assets/docs/Laura_Ortuno_Lopez_Senior_PHP_CV (092026).pdf
+ * Fuente: src/assets/docs/Laura_Ortuno_Lopez_Senior_PHP_CV (092026).pdf
  */
 window.CV_CONTENT = {
 	lang: "es",
